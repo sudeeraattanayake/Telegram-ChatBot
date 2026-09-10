@@ -1,0 +1,6 @@
+.env
+mybot/
+research/mybot/
+__pycache__/
+*.pyc
+.vscode/
